@@ -44,8 +44,8 @@ export default function Layout({ children, home }) {
                 <Image
                   priority
                   src="/images/profile.jpeg"
-                  height={108}
-                  width={108}
+                  height={80}
+                  width={100}
                   alt={name}
                 />
               </a>
