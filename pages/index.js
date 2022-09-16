@@ -23,7 +23,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I Am Avery-Dante a Solutions Architect and a catalyst for greatness
+          Help Branch
+          
         </p>
         <button>Click Me</button>
         <p>
